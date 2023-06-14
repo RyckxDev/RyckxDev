@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyckxDev
+- 👋 Hi, I’m Ryan!
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
