@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan!
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming🖥️
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 📫 "Contact me via email: ryan.dag42@gmail.com" ...
 
