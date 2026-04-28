@@ -1,9 +1,13 @@
 <div align="center">
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNwMGVnd2Y0MHZzZTQ1d2dzZ21oeGgyeHQzMmM1em5yMHpxcnBxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="200" style="border-radius: 12px" />
+
 # 👋 Olá, eu sou Ryan Gonçalves
 ### @RyckxDev
 
-![Estudante](https://img.shields.io/badge/Estudante-Desenvolvimento%20de%20Software%20Multiplataforma-1D9E75?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=RyckxDev&label=Visitors&color=0e75b6&style=flat)
+
+![Badge](https://img.shields.io/badge/Estudante-Desenvolvimento%20de%20Software%20Multiplataforma-238636?style=flat-square)
 
 </div>
 
@@ -29,7 +33,15 @@
 
 ---
 
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RyckxDev&theme=tokyonight&no-frame=true&row=1" />
+</div>
+
+---
+
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-goncalves/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-bad
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryan.dag42@gmail.com)
