@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNwMGVnd2Y0MHZzZTQ1d2dzZ21oeGgyeHQzMmM1em5yMHpxcnBxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="200" style="border-radius: 12px" />
+<img src="https://i.pinimg.com/736x/fe/8d/e5/fe8de56e3db401a6935a3ed4fcf2c88f.jpg" width="450" style="border-radius: 12px" />
 
 # 👋 Olá, eu sou Ryan Gonçalves
 ### @RyckxDev
